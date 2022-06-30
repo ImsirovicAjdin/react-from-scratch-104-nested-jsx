@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is [deployed on Netlify]().
+This project is [deployed on Netlify](https://boisterous-panda-9f29a0.netlify.app/).
 
 ## Learning Concepts covered
 
